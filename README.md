@@ -1,3 +1,3 @@
-# hello-world
+MASTER2
 This is an example of branch...
 second branch
